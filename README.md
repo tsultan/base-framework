@@ -1,6 +1,6 @@
-Base Framework for C.P.P.A.I. Project
+Base Framework for cppAI 
 -------
-> Current repository state resembles that of finishing REST with Spring tutorial available at `https://spring.io/guides/gs/rest-service/`
+Current repository state resembles that of finishing REST with Spring tutorial available at `https://spring.io/guides/gs/rest-service/`
 
 ### To run the project:
 
