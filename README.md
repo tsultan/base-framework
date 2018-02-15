@@ -13,7 +13,8 @@ Current repository state resembles that of finishing REST with Spring tutorial a
 
 ### How to set up contribution workflow:
 
-1. Pull most updated version of repo with `git pull`
+Unix/Linux/MacOS
+1. Pull most updated version of repo with `git pull https://github.com/CPP-AI-Backend/base-framework`
 2. Make a change to this (README.md) file by adding your name + github id in () under list of contributors.
 3. Use `git add README.md` to stage this change in your local environment
 3. Make a new branch and switch to it using checkout. For example, my branch I named Ivan_W so I ran `git checkout -b Ivan_W` where the -b tag specifies new branch. 
@@ -23,3 +24,4 @@ Current repository state resembles that of finishing REST with Spring tutorial a
 7. Create a pull request to merge your branch with the master branch. This can be done by accessign GitHub via browser or with `git request-pull` (GitHub via browser is much easier)
 8. Wait for review and merge of your pull request (if your code is solid)
 
+Windows
